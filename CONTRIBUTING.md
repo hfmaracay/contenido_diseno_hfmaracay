@@ -3,11 +3,18 @@ Al contribuir a este repositorio, primero discuta el cambio que desea realizar a
 
 Tenga en cuenta que tenemos un código de conducta, sígalo en todas sus interacciones con el proyecto.
 
+
+
 ##Proceso de solicitud de Pull Request
+* Empiecen haciendo un fork del repositorio.
+* Siempre deben hacer el Pull Request contra la rama Development, nunca contra master
+* Utilizar nombres de commit que sean descriptivos y en el mensaje hacer referencia al issue que resuelven y todos los detalles que consideren neesarios.
 * Asegúrese de eliminar las dependencias de instalación o compilación antes del final de la capa al realizar una compilación.
 * Actualice README.md con detalles de los cambios en la interfaz, esto incluye nuevas variables de entorno, puertos expuestos, ubicaciones útiles de archivos y parámetros de contenedor.
 * Aumente los números de versión en cualquier archivo de ejemplos y README.md a la nueva versión que representaría esta Solicitud de extracción. El esquema de versiones que utilizamos es SemVer (https://semver.org/lang/es/).
 * Puede fusionar el Pull Request una vez que tenga la aprobación de otros dos desarrolladores, o si no tiene permiso para hacerlo, puede solicitar al segundo revisor que la combine por usted.
+
+¿Quieren saber más acercade como se hace un Pull Request? Visita https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 ##Código de Conducta
 ###Nuestra promesa
