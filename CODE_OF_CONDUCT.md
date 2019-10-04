@@ -1,10 +1,10 @@
-#Código de conducta para el repositorio de Hackers & Founders Maracay
+# Código de conducta para el repositorio de Hackers & Founders Maracay
 Con el fin de fomentar una comunidad inclusiva, amable, libre de acoso y cooperativa, Hackers & Founders Maracay aplica este código de conducta en nuestros proyectos de código abierto.
 
-##Resumen
+## Resumen
 El acoso en el código y la discusión o la violación de los límites físicos es completamente inaceptable en cualquier parte de las bases de códigos de proyectos, zonas de issues, salas de chat, listas de correo, reuniones y otros eventos de Hackers & Founders Maracay. Los infractores serán advertidos por el equipo central. Las infracciones repetidas resultarán en que el usuario será bloqueado o prohibido su acceso por el equipo central en la tercera infracción o antes.
 
-##En detalle
+## En detalle
 El acoso incluye comentarios verbales ofensivos relacionados con la identidad de género, la expresión de género, la orientación sexual, la discapacidad, la apariencia física, el tamaño del cuerpo, la raza, la religión, las imágenes sexuales, la intimidación deliberada, el acoso, la interrupción sostenida y la atención sexual no deseada.
 
 Se espera que las personas a quienes se les pide que detengan cualquier comportamiento de acoso cumplan de inmediato.
