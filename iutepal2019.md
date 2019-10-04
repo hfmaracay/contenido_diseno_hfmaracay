@@ -9,3 +9,5 @@ Este es el archivo de prueba del meetup de Hacktoberfest 2019 en el iutepal.
 
 
 Un vinculo: [mipagina.com](https://mipagina.com)
+
+Para editar markdown usar HAROOPAD http://pad.haroopress.com/
