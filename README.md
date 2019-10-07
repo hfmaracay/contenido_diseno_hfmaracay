@@ -1,5 +1,5 @@
 # Contenido y Diseño HFMaracay
-Conotenidos y Diseños para el Website de HFMaracay - &#35;HacktoberFest2019
+Contenidos y diseños para el Website de HFMaracay - &#35;HacktoberFest2019
 
 ## Autores✒️
 * **Dayan Betancourt** - *Líder de HFMaracay y Desarrolladora Web* - [delfinbeta](https://github.com/delfinbeta)
@@ -11,7 +11,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 Por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Licencia 📄
-Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE](LICENSE) para detalles
+Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Agradecimientos 🎁
 * Gracias a [Villanuevand](https://github.com/Villanuevand) 😊 por su ejemplo de sobre crear un README genial.
